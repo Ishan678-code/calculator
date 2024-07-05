@@ -1,0 +1,45 @@
+body
+{
+    background-color: aqua;
+}
+.button
+{
+    padding: 20px;
+    margin: 0 2px ;
+    border: 2px ;
+    border-radius: 9px;
+}
+.row
+{
+    margin: 2px 0;
+}
+.row input
+{
+    
+    margin:0;
+    padding: 6px 25px;
+    border: 2px;
+    border-radius: 9px;
+
+}
+.Center {
+    text-align: center;
+  }
+  
+  .bg-green {
+    background: greenyellow;
+  }
+  .mx-auto {
+    margin: auto;
+  }
+  
+  .flex {
+    display: flex;
+  }
+  .flex-col {
+    flex-direction: column;
+  }
+  .items-center
+  {
+      align-items:center;
+  }
